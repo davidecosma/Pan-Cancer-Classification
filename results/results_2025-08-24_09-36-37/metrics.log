@@ -1,0 +1,544 @@
+
+--- Results for: Bladder Urothelial Carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.993
+  Error under ROC (%):       0.667
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.995
+  Error under ROC (%):       0.485
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.995
+  Error under ROC (%):       0.545
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.990
+  Error under ROC (%):       0.970
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.983
+  Error under ROC (%):       1.697
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.975
+  Error under ROC (%):       2.485
+
+
+--- Results for: Breast invasive carcinoma cancer ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.922
+  Error under ROC (%):       7.813
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.928
+  Error under ROC (%):       7.150
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.923
+  Error under ROC (%):       7.674
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.912
+  Error under ROC (%):       8.790
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.917
+  Error under ROC (%):       8.301
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.922
+  Error under ROC (%):       7.848
+
+
+--- Results for: Breast cancer ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.999
+  Error under ROC (%):       0.141
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.999
+  Error under ROC (%):       0.096
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.999
+  Error under ROC (%):       0.150
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.997
+  Error under ROC (%):       0.346
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.999
+  Error under ROC (%):       0.113
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.998
+  Error under ROC (%):       0.163
+
+
+--- Results for: Colon adenocarcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Esophageal carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Head and Neck squamous cell carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.986
+  Error under ROC (%):       1.446
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.986
+  Error under ROC (%):       1.446
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.988
+  Error under ROC (%):       1.240
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.975
+  Error under ROC (%):       2.479
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.961
+  Error under ROC (%):       3.926
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.986
+  Error under ROC (%):       1.446
+
+
+--- Results for: Kidney Chromophobe ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Kidney renal clear cell carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Kidney renal papillary cell carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Liver hepatocellular carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.993
+  Error under ROC (%):       0.694
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.994
+  Error under ROC (%):       0.641
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.993
+  Error under ROC (%):       0.748
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.994
+  Error under ROC (%):       0.588
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.996
+  Error under ROC (%):       0.374
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.993
+  Error under ROC (%):       0.748
+
+
+--- Results for: Lung squamous cell carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.976
+  Error under ROC (%):       2.381
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.976
+  Error under ROC (%):       2.381
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.987
+  Error under ROC (%):       1.323
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.979
+  Error under ROC (%):       2.116
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.958
+  Error under ROC (%):       4.233
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.979
+  Error under ROC (%):       2.116
+
+
+--- Results for: Lung adenocarcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.035
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.999
+  Error under ROC (%):       0.106
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.035
+
+
+--- Results for: Prostate adenocarcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.728
+  Error under ROC (%):       27.204
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.724
+  Error under ROC (%):       27.595
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.711
+  Error under ROC (%):       28.864
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.726
+  Error under ROC (%):       27.350
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.723
+  Error under ROC (%):       27.717
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.710
+  Error under ROC (%):       29.011
+
+
+--- Results for: Rectum adenocarcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Stomach adenocarcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.994
+  Error under ROC (%):       0.595
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.988
+  Error under ROC (%):       1.190
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+--- Results for: Thyroid carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 0.966
+  Error under ROC (%):       3.370
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 0.964
+  Error under ROC (%):       3.556
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 0.961
+  Error under ROC (%):       3.852
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 0.971
+  Error under ROC (%):       2.852
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 0.970
+  Error under ROC (%):       3.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 0.959
+  Error under ROC (%):       4.074
+
+
+--- Results for: Uterine Corpus Endometrial Carcinoma ---
+
+Model: KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: MLP
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: SVM
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: CNN-1D
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: DI-CNN+
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
+
+Model: IT-KAN
+  Overall AUC (out-of-fold): 1.000
+  Error under ROC (%):       0.000
+
