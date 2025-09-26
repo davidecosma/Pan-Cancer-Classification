@@ -1,0 +1,325 @@
+
+FUSION RESULTS (MLP + IT-KAN)
+
+--- Results for: Bladder Urothelial Carcinoma ---
+
+Fusion accuracy kfold (1/10): 94.44%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 88.89%
+Fusion accuracy kfold (4/10): 94.44%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 94.12%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 97.19% (SEM: 0.0125)
+
+Fusion overall AUC (out-of-fold): 0.984
+Fusion error under ROC (%):       1.576
+
+
+--- Results for: Breast invasive carcinoma cancer ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 72.73%
+Fusion accuracy kfold (5/10): 90.91%
+Fusion accuracy kfold (6/10): 81.82%
+Fusion accuracy kfold (7/10): 81.82%
+Fusion accuracy kfold (8/10): 72.73%
+Fusion accuracy kfold (9/10): 90.00%
+Fusion accuracy kfold (10/10): 90.00%
+
+Final fusion accuracy: 88.00% (SEM: 0.0332)
+
+Fusion overall AUC (out-of-fold): 0.926
+Fusion error under ROC (%):       7.429
+
+
+--- Results for: Breast cancer ---
+
+Fusion accuracy kfold (1/10): 98.25%
+Fusion accuracy kfold (2/10): 97.37%
+Fusion accuracy kfold (3/10): 99.12%
+Fusion accuracy kfold (4/10): 99.12%
+Fusion accuracy kfold (5/10): 99.12%
+Fusion accuracy kfold (6/10): 99.12%
+Fusion accuracy kfold (7/10): 99.12%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 99.12%
+Fusion accuracy kfold (10/10): 98.23%
+
+Final fusion accuracy: 98.86% (SEM: 0.0023)
+
+Fusion overall AUC (out-of-fold): 0.999
+Fusion error under ROC (%):       0.122
+
+
+--- Results for: Colon adenocarcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Esophageal carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 66.67%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 96.67% (SEM: 0.0333)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Head and Neck squamous cell carcinoma ---
+
+Fusion accuracy kfold (1/10): 80.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 80.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 75.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 93.50% (SEM: 0.0334)
+
+Fusion overall AUC (out-of-fold): 0.990
+Fusion error under ROC (%):       1.033
+
+
+--- Results for: Kidney Chromophobe ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Kidney renal clear cell carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Kidney renal papillary cell carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Liver hepatocellular carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 88.89%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 87.50%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 97.64% (SEM: 0.0158)
+
+Fusion overall AUC (out-of-fold): 0.979
+Fusion error under ROC (%):       2.137
+
+
+--- Results for: Lung squamous cell carcinoma ---
+
+Fusion accuracy kfold (1/10): 80.00%
+Fusion accuracy kfold (2/10): 75.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 95.50% (SEM: 0.0302)
+
+Fusion overall AUC (out-of-fold): 0.984
+Fusion error under ROC (%):       1.587
+
+
+--- Results for: Lung adenocarcinoma ---
+
+Fusion accuracy kfold (1/10): 81.82%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 98.18% (SEM: 0.0182)
+
+Fusion overall AUC (out-of-fold): 0.999
+Fusion error under ROC (%):       0.070
+
+
+--- Results for: Prostate adenocarcinoma ---
+
+Fusion accuracy kfold (1/10): 69.23%
+Fusion accuracy kfold (2/10): 53.85%
+Fusion accuracy kfold (3/10): 53.85%
+Fusion accuracy kfold (4/10): 76.92%
+Fusion accuracy kfold (5/10): 69.23%
+Fusion accuracy kfold (6/10): 76.92%
+Fusion accuracy kfold (7/10): 84.62%
+Fusion accuracy kfold (8/10): 76.92%
+Fusion accuracy kfold (9/10): 75.00%
+Fusion accuracy kfold (10/10): 58.33%
+
+Final fusion accuracy: 69.49% (SEM: 0.0340)
+
+Fusion overall AUC (out-of-fold): 0.746
+Fusion error under ROC (%):       25.446
+
+
+--- Results for: Rectum adenocarcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Stomach adenocarcinoma ---
+
+Fusion accuracy kfold (1/10): 66.67%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 96.67% (SEM: 0.0333)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
+
+--- Results for: Thyroid carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 90.91%
+Fusion accuracy kfold (3/10): 90.91%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 90.91%
+Fusion accuracy kfold (6/10): 90.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 96.27% (SEM: 0.0152)
+
+Fusion overall AUC (out-of-fold): 0.974
+Fusion error under ROC (%):       2.593
+
+
+--- Results for: Uterine Corpus Endometrial Carcinoma ---
+
+Fusion accuracy kfold (1/10): 100.00%
+Fusion accuracy kfold (2/10): 100.00%
+Fusion accuracy kfold (3/10): 100.00%
+Fusion accuracy kfold (4/10): 100.00%
+Fusion accuracy kfold (5/10): 100.00%
+Fusion accuracy kfold (6/10): 100.00%
+Fusion accuracy kfold (7/10): 100.00%
+Fusion accuracy kfold (8/10): 100.00%
+Fusion accuracy kfold (9/10): 100.00%
+Fusion accuracy kfold (10/10): 100.00%
+
+Final fusion accuracy: 100.00% (SEM: 0.0000)
+
+Fusion overall AUC (out-of-fold): 1.000
+Fusion error under ROC (%):       0.000
+
